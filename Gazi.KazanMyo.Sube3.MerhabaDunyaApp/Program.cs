@@ -60,7 +60,7 @@ namespace Gazi.KazanMyo.Sube3.MerhabaDunyaApp
 
             // Console.WriteLine(sayi);
 
-
+            //Değişiklik
             try
             {               
                 Console.WriteLine("Adınızı giriniz:");
