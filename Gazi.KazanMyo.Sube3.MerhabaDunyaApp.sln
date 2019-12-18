@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazi.Sube3.KararYapilariApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazi.KazanMyo.DongulerApp", "Gazi.KazanMyo.DongulerApp\Gazi.KazanMyo.DongulerApp.csproj", "{D4F11620-BCF2-4DBA-8F1B-F327231275BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazi.KazanMyo.Sube3.DizilerApp", "Gazi.KazanMyo.Sube3.DizilerApp\Gazi.KazanMyo.Sube3.DizilerApp.csproj", "{4EE63154-D584-4AE1-B279-03CD4DB88A2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D4F11620-BCF2-4DBA-8F1B-F327231275BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4F11620-BCF2-4DBA-8F1B-F327231275BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4F11620-BCF2-4DBA-8F1B-F327231275BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE63154-D584-4AE1-B279-03CD4DB88A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE63154-D584-4AE1-B279-03CD4DB88A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE63154-D584-4AE1-B279-03CD4DB88A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE63154-D584-4AE1-B279-03CD4DB88A2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

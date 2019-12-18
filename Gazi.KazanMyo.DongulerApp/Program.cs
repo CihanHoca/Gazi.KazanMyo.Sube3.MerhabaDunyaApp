@@ -15,6 +15,7 @@ namespace Gazi.KazanMyo.DongulerApp
             //    Console.WriteLine("Gazi");
             //}
 
+           
             //int sonuc = 1;
             //for (int i = 0; i < 3; i++)
             //{
@@ -82,13 +83,42 @@ namespace Gazi.KazanMyo.DongulerApp
             //2-Kullanıcın girdiği sayıları toplayan while sorusunu tamamlama
             //3-İnternetten rastgele 10 adet for ve while örneği
             //4-Github Hesabı
+            //int toplam = 0;
+            //while (true)
+            //{              
+            //    Console.WriteLine("Sayı Giriniz:");
+            //    int sayi = int.Parse(Console.ReadLine());
+            //    toplam += sayi;
+            //    if (sayi==0)
+            //    {
+            //        break;
+            //    }
+            //}
+            //Console.WriteLine($"Girdiğiniz sayıların toplamı:{toplam}");
 
-            int sayac = 0;
-            while (sayac<5)
-            {
-                Console.WriteLine("Gazi");
-                sayac++;
-            }            
+
+            //int sayi = 1;
+            //int toplam = 0;
+            //while (sayi!=0)
+            //{                
+            //    Console.WriteLine("Bir sayı giriniz:");
+            //    sayi = int.Parse(Console.ReadLine());
+            //    toplam += sayi;
+            //}
+            //Console.WriteLine($"Girdiğiniz sayıların toplamı:{toplam}");
+
+            //int toplam = 0;
+            //int sayi;
+            //do
+            //{
+            //    Console.WriteLine("Sayı Giriniz:");
+            //    sayi = int.Parse(Console.ReadLine());
+            //    toplam += sayi;
+
+            //} while (sayi!=0);
+
+            //Console.WriteLine($"Girdiğiniz sayıların toplamı:{toplam}");
+
 
             Console.ReadKey();
            
